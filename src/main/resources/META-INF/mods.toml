@@ -1,0 +1,12 @@
+modLoader="javafml"
+loaderVersion="[35,)"
+license = "GNU General Public License v3"
+[[mods]]
+modId="brewingrecipes"
+version="${file.jarVersion}"
+displayName="Brewing Recipes"
+#displayURL="http://example.com/"
+authors="IchHabeHunger54"
+description='''
+Allows you to change brewing recipes through the config.
+'''
